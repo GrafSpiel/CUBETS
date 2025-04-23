@@ -1,4 +1,4 @@
-# Eternity II Solver
+# CUBETS - CUDA-based Eternity Two Solver
 
 A multi-strategy approach to solving the Eternity II puzzle using a combination of preprocessing, GPU-accelerated search, hyper-heuristic optimization, and exact SAT solving.
 
